@@ -15,9 +15,7 @@ Responsive design for various devices.
 
 ## 🚀 How to Run
 Clone the repository or download the files:
-bash
-Copy code
-git clone https://github.com/mubashira22/tic-tac-toe-Game.git
+Git clone https://github.com/mubashira22/tic-tac-toe-Game.git
 Open index.html in your web browser:
 Double-click the file.
 Or use a live server (e.g., VS Code Live Server extension).
@@ -53,6 +51,7 @@ Contributions are welcome! Fork the repository and submit a pull request for enh
 Mubashira Siddiqui
 
 LinkedIn : https://www.linkedin.com/in/mubashira-siddiqui
+</Br>
 GitHub : https://github.com/mubashira22
 
 ## 📄 License
